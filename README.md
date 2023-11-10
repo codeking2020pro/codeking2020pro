@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @codeking2020pro
-- 👀 I’m interested in Full Stack Software Development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on any Java Project as well as any HTML, CSS and JavaScript Project.
+- 👋 Hi, I’m Roland Omowoma @codeking2020pro
+- 👀 I’m currenty a React Developer, interested in Full Stack Software Development
+- 🌱 I’m currently learning NodeJS, MySQL and MongoDB
+- 💞️ I’m looking to collaborate on any React Project as well as any HTML, CSS and JavaScript Project.
 - 📫 How to reach me: omowomaroland@gmail.com
 
 <!---

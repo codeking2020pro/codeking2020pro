@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Roland Omowoma @codeking2020pro
-- 👀 I’m proficient in Python, React, JavaScript, HTML, and CSS with BootStrap
+- 👀 I’m proficient in Python, React, JavaScript, HTML, and CSS with Bootstrap
 - 🌱 I’m not proficient yet in NodeJS, SQL-Databases and No-SQL Databases, Linux and Data Science
 - 💞️ I’m willing to collaborate on any Project that suits my skill set.
 - 📫 How to reach me: omowomaroland@gmail.com

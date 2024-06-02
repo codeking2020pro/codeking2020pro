@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Roland Omowoma @codeking2020pro
-- 👀 I’m currenty a React Developer, interested in Full Stack Software Development
-- 🌱 I’m currently learning NodeJS, MySQL and MongoDB
-- 💞️ I’m looking to collaborate on any React Project as well as any HTML, CSS and JavaScript Project.
+- 👀 I’m proficient in Python, React, JavaScript, HTML, and CSS with BootStrap
+- 🌱 I’m not proficient yet in NodeJS, SQL-Databases and No-SQL Databases, Linux and Data Science
+- 💞️ I’m willing to collaborate on any Project that suits my skill set.
 - 📫 How to reach me: omowomaroland@gmail.com
 
 <!---
